@@ -3,6 +3,8 @@ Vjezbe iz RS2
 
 https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
 
+https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/
+
 https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
 
 
